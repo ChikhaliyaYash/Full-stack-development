@@ -29,4 +29,3 @@ function Banner() {
 }
 
 export default Banner
-//comment
