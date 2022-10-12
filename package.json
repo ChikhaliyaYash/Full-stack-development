@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@material-ui/icons": "^4.11.3"
+    "@material-ui/icons": "^4.11.3",
+    "swiper": "^6.8.4"
   }
 }

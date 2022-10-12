@@ -1,3 +1,5 @@
+import 'swiper/swiper-bundle.min.css'
+import 'swiper/swiper.min.css'
 import React, { Component } from 'react'
 import aboutimg from '../img/about.jpg'
 export default class About extends Component {
